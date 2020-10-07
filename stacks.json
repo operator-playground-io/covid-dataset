@@ -1,0 +1,22 @@
+{
+  "title": "Covid Dataset",
+  "description": "Dataset for covid data",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "covid_dataset",
+  "type": "Dataset",
+  "categories": [
+    "Covid",
+    "Health"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+}
