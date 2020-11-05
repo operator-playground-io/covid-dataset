@@ -14,9 +14,6 @@
   "deployment_information": {
      "Dataset": "/home/student/projects/covid_dataset"
   },
-  "tag": [
-    "CSV"
-  ],
   "commands": [
     {
       "description": "Get Dataset",
@@ -36,6 +33,9 @@
     ],
     "Type": [
       "Dataset"
+    ],
+    "Tag": [
+      "CSV"
     ],
     "categories": [
       "Covid",
